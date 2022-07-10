@@ -1,5 +1,5 @@
 <?php include_once("./Blog_Programadores/views/layout/menu.php") ?>
-<?php include_once("/views/layout/header.php") ?>
+<?php include_once("./Blog_Programadores/views/layout/header.php") ?>
 <?php include_once("/views/layout/usuario/loginRegistro.php") ?> 
 <?php include_once("/views/layout/aside.php") ?>
 
