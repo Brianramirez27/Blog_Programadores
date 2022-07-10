@@ -1,7 +1,7 @@
 <?php include_once("<?=base_url?>/views/layout/header.php") ?>
-<?php include_once("views/layout/menu.php") ?>
-<?php include_once("views/layout/aside.php") ?>
-<?php include_once("views/layout/usuario/loginRegistro.php") ?> 
+<?php include_once("<?=base_url?>/views/layout/menu.php") ?>
+<?php include_once("<?=base_url?>/views/layout/aside.php") ?>
+<?php include_once("<?=base_url?>/views/layout/usuario/loginRegistro.php") ?> 
 
 
 <div class="container">
