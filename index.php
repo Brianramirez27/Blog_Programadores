@@ -1,13 +1,13 @@
 <?php include_once("./views/layout/menu.php") ?>
-<?php include_once("./Blog_Programadores/views/layout/header.php") ?>
-<?php include_once("./views/layout/loginRegistro.php") ?> 
+<?php include_once("./views/layout/header.php") ?>
+<?php include_once("./views/layout/usuario/loginRegistro.php") ?> 
 <?php include_once("./views/layout/aside.php") ?>
 
 
 <div class="container">
     <h1>entrree</h1>
-    <?php include_once("/wamp64/www/blog_programadores/config/parameters.php") ?>
-    <?php include_once("/wamp64/www/blog_programadores/controllers/autoload.php")?>
+    <?php include_once("./config/parameters.php") ?>
+    <?php include_once("./controllers/autoload.php")?>
     
     <?php 
         
