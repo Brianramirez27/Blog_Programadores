@@ -1,7 +1,7 @@
-<?php include_once("\views\layout\menu.php") ?>
-<?php include_once("/views/layout/header.php") ?>
-<?php include_once("/views/layout/loginRegistro.php") ?> 
-<?php include_once("/views/layout/aside.php") ?>
+<?php include_once("/views/layout/menu.phpmenu.php") ?>
+<?php include_once("Blog_Programadores/views/layout/header.php") ?>
+<?php include_once("/Blog_Programadores/views/layout/loginRegistro.php") ?> 
+<?php include_once("/Blog_Programadores/views/layout/aside.php") ?>
 
 
 <div class="container">
