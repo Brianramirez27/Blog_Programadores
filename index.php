@@ -1,7 +1,7 @@
-<?php include_once("/wamp64/www/blog_programadores/views/layout/menu.php") ?>
-<?php include_once("/wamp64/www/blog_programadores/views/layout/header.php") ?>
-<?php include_once("/wamp64/www/blog_programadores/views/usuario/loginRegistro.php") ?> 
-<?php include_once("/wamp64/www/blog_programadores/views/layout/aside.php") ?>
+<?php include_once("/blog_programadores/views/layout/menu.php") ?>
+<?php include_once("/blog_programadores/views/layout/header.php") ?>
+<?php include_once("blog_programadores/views/usuario/loginRegistro.php") ?> 
+<?php include_once("/blog_programadores/views/layout/aside.php") ?>
 
 
 <div class="container">
@@ -39,5 +39,5 @@
 
     ?>
 
-<?php include_once("/wamp64/www/blog_programadores/views/layout/footer.php") ?>
+<?php include_once("blog_programadores/views/layout/footer.php") ?>
 </div>
