@@ -1,6 +1,6 @@
-<?php include_once("/views/menu.php") ?>
-<?php include_once("/views/header.php") ?>
-<?php include_once("/views/loginRegistro.php") ?> 
+<?php include_once("/views/layout/menu.php") ?>
+<?php include_once("/views/layout/header.php") ?>
+<?php include_once("/views/layout/loginRegistro.php") ?> 
 <?php include_once("/views/layout/aside.php") ?>
 
 
