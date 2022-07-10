@@ -1,4 +1,4 @@
-<?php include_once("./views/layout/menu.php") ?>
+<?php include_once("/views/layout/menu.php") ?>
 <?php include_once("./views/layout/header.php") ?>
 <?php include_once("./views/layout/usuario/loginRegistro.php") ?> 
 <?php include_once("./views/layout/aside.php") ?>
@@ -40,5 +40,5 @@
 
     ?>
 
-<?php include_once("./views/layout/footer.php") ?>
+<?php include_once("views/layout/footer.php") ?>
 </div>
