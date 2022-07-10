@@ -1,4 +1,4 @@
-<?php include_once("views/layout/header.php") ?>
+<?php include_once("<?=base_url?>/views/layout/header.php") ?>
 <?php include_once("views/layout/menu.php") ?>
 <?php include_once("views/layout/aside.php") ?>
 <?php include_once("views/layout/usuario/loginRegistro.php") ?> 
