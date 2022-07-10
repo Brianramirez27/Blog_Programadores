@@ -5,6 +5,7 @@
 
 
 <div class="container">
+    <h1>entrree</h1>
     <?php include_once("/wamp64/www/blog_programadores/config/parameters.php") ?>
     <?php include_once("/wamp64/www/blog_programadores/controllers/autoload.php")?>
     
